@@ -698,7 +698,7 @@ button {
   height: 100%;
   filter: saturate(0.92) contrast(1.02);
   object-fit: cover;
-  object-position: 22% center;
+  object-position: center center;
 }
 
 .hero__scrim {
@@ -1977,7 +1977,7 @@ button {
   }
 
   .hero__bg img {
-    object-position: 26% 28%;
+    object-position: center center;
   }
 
   .hero__scrim {
