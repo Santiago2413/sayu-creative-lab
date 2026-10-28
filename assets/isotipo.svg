@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Isotipo Sayu Creative Lab</title>
+  <circle cx="32" cy="32" r="31" fill="#7A2E32"/>
+  <circle cx="32" cy="32" r="27.5" fill="none" stroke="#F4EEDF" stroke-opacity=".3" stroke-width=".8"/>
+  <path d="M40.6 20.4c-2.3-2-5.3-3.1-8.8-3.1-5.7 0-9.7 2.8-9.7 7.1 0 4.1 3.2 5.9 9.5 7.4 5.9 1.4 8.8 3 8.8 6.7 0 4.1-3.9 7-9.5 7-4 0-7.7-1.4-10.4-4" fill="none" stroke="#F4EEDF" stroke-width="3.4" stroke-linecap="round"/>
+  <circle cx="45.8" cy="44.2" r="2.6" fill="#F4EEDF"/>
+</svg>
